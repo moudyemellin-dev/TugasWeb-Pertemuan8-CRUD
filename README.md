@@ -88,6 +88,6 @@ Tabel tambahan:
 - phpMyAdmin
 - XAMPP
 
-## Mata Kuliah
+## Live Demo
 
-Pemrograman Web
+🌐 [Buka CRUD Inventaris](https://moudy-crud8.page.gd)
