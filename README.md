@@ -46,7 +46,14 @@ Tabel tambahan:
 
 ## Screenshot Aplikasi
 
-![CRUD Inventaris](screenshot-aplikasi.png)
+### Daftar Produk
+![Daftar Produk](screenshot-daftar-produk.jpeg)
+
+### Tambah Produk
+![Tambah Produk](screenshot-tambah-produk.jpeg)
+
+### Update Berhasil
+![Update Berhasil](screenshot-update-berhasil.jpeg)
 
 ## Cara Import Database
 
