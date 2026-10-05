@@ -90,4 +90,4 @@ Tabel tambahan:
 
 ## Live Demo
 
-🌐 [Buka CRUD Inventaris](https://moudy-crud8.page.gd)
+🌐 [Buka Website Tugas Rutin 7 CRUD Inventaris](https://moudy-crud8.page.gd)
