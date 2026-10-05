@@ -47,13 +47,13 @@ Tabel tambahan:
 ## Screenshot Aplikasi
 
 ### Daftar Produk
-![Daftar Produk](screenshot-daftar-produk.jpeg)
+![Daftar Produk](screenshots/screenshot-daftar-produk.jpeg)
 
 ### Tambah Produk
-![Tambah Produk](screenshot-tambah-produk.jpeg)
+![Tambah Produk](screenshots/screenshot-tambah-produk.jpeg)
 
 ### Update Berhasil
-![Update Berhasil](screenshot-update-berhasil.jpeg)
+![Update Berhasil](screenshots/screenshot-update-berhasil.jpeg)
 
 ## Cara Import Database
 
